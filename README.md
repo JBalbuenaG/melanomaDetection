@@ -16,4 +16,4 @@ Luego se pondero las probabilidades de los tres (03) modelos, dos mejores result
 
 2. La segunda ponderación, con la que se obtuvo 0.84136 en la metrica AUC-ROC
 
-> Prob<sub>total</sub> = (2.4 x Prob<sub>VGG16</sub> + 0.4 x Prob<sub>miniXception</sub> + 0.2 x Prob<sub>InceptionV3</sub>)/3
+> Prob<sub>total</sub> = (2.4 x Prob<sub>VGG16</sub> + 0.3 x Prob<sub>miniXception</sub> + 0.3 x Prob<sub>InceptionV3</sub>)/3
