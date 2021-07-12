@@ -8,4 +8,10 @@ El repositorio contiene el proyecto realizado como parte del curso INF658-Comput
 * InceptionV3
 * miniXception
 
-Luego se pondero las probabilidades de los tres (03) modelos
+Luego se pondero las probabilidades de los tres (03) modelos, dos mejores resultados para el AUC-ROC:
+
+1. La primera ponderación, con la que se obtuvo 0.84071 en la metrica AUC-ROC
+![equation](https://bit.ly/3e7ujBO)
+
+2. La segunda ponderación, con la que se obtuvo 0.84136 en la metrica AUC-ROC
+![equation](https://bit.ly/3e6RBI1)
