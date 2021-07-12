@@ -11,7 +11,9 @@ El repositorio contiene el proyecto realizado como parte del curso INF658-Comput
 Luego se pondero las probabilidades de los tres (03) modelos, dos mejores resultados para el AUC-ROC:
 
 1. La primera ponderación, con la que se obtuvo 0.84071 en la metrica AUC-ROC
-![equation](https://bit.ly/3e7ujBO)
+
+> Prob<sub>total</sub> = (2.4 x Prob<sub>VGG16</sub> + 0.4 x Prob<sub>miniXception</sub> + 0.2 x Prob<sub>InceptionV3</sub>)/3
 
 2. La segunda ponderación, con la que se obtuvo 0.84136 en la metrica AUC-ROC
-![equation](https://bit.ly/3e6RBI1)
+
+> Prob<sub>total</sub> = (2.4 x Prob<sub>VGG16</sub> + 0.4 x Prob<sub>miniXception</sub> + 0.2 x Prob<sub>InceptionV3</sub>)/3
